@@ -9,7 +9,7 @@
 
 
 
-![Lucas Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=victoreduardo21&show_icons=true&theme=radical)
+![Lucas Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspedro65&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso:
 
